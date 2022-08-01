@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Wahyu Eka Prasetya"
+        android:textAlignment="textStart"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NIS : 3036"
+        android:textAlignment="textStart"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Zahrotun Niswah"
+        android:textAlignment="textStart"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NIS : 3038"
+        android:textAlignment="textStart"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Zuliana"
+        android:textAlignment="textStart"
+        android:background="#00ff00"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NIS : 3040"
+        android:textAlignment="textStart"
+        android:background="#00ff00"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Adinda Widia Choirunnisa"
+        android:textAlignment="textStart"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NIS : 2972"
+        android:textAlignment="textStart"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Andreas Adi Minarso"
+        android:textAlignment="textStart"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NIS : 2994"
+        android:textAlignment="textStart"
+        android:textSize="25dp" />
+</LinearLayout>
